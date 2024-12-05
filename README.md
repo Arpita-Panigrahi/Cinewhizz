@@ -1,6 +1,6 @@
-# Movie Website
+# Cinewhizz
 
-A dynamic and modern movie website built using **React.js**. This project allows users to explore, search, and view details of movies by leveraging a third-party API. It was created as a learning project based on the [YouTube tutorial](https://youtu.be/G6D9cBaLViA?si=O3NIThdrOWi5OCVu).
+A dynamic and modern movie website built using **React.js**. This project allows users to explore, search, and view details of movies by leveraging a third-party API.
 
 ## Features
 
